@@ -5,3 +5,4 @@ def get_input(path):
             data.append(line.strip())
     return data
 
+#3
